@@ -41,6 +41,4 @@ search3=driver.find_element_by_xpath("//body/div[@id='container']/div/div[@class
 search3.click()
 logout1=driver.find_element_by_xpath("//body/div[@id='container']/div/div[@class='_3ybBIU']/div[@class='_1tz-RS']/div[@class='_3pNZKl']/div[3]/div[1]/*[1]")
 logout1.click()
-
-
 driver.close()
