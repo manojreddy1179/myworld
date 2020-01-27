@@ -34,6 +34,4 @@ bglr.click()
 search=driver.find_element_by_xpath("//a[contains(@class,'primaryBtn font24 latoBlack widgetSearchBtn')]")
 search.click()
 time.sleep(5)
-
-
 driver.close()
